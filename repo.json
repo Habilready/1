@@ -1,6 +1,6 @@
 {
-    "name": "初一源",
-    "sourceURL": "http://y.nbtd.vip",
+    "name": "test源",
+    "sourceURL": "https://raw.githubusercontent.com/Habilready/1/main/repo.json",
     "apps": [{
             "name": "公告",
             "version": "1.0",
